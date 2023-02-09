@@ -29,3 +29,6 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+### 8. User Interface Sample
+![alt text]()
