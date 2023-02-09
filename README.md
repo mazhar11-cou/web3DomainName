@@ -31,4 +31,8 @@ In a separate terminal execute:
 `$ npm run start`
 
 ### 8. User Interface Sample
-![alt text]()
+![alt text](https://github.com/mazhar11-cou/web3DomainName/blob/main/img/ethdaddy.PNG)
+
+### 9. Buying the web3 Domain
+
+![alt text](https://github.com/mazhar11-cou/web3DomainName/blob/main/img/ethdaddy1.PNG)
